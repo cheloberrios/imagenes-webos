@@ -1,0 +1,22 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Node (si lo necesitas)
+node_modules/
+package-lock.json
+
+# Archivos grandes (opcional - descomenta si es necesario)
+# *.psd
+# *.ai
+# *.mov
+# *.mp4
